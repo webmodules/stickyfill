@@ -2,7 +2,7 @@
 
 A polyfill for `position: sticky` for browsers that don't support it yet.
 
-Essentially ![wilddeer/stickyfill](https://github.com/wilddeer/stickyfill) wrapped as a webmodule.
+Essentially [wilddeer/stickyfill](https://github.com/wilddeer/stickyfill) wrapped as a webmodule.
 
 ## Installation
 
