@@ -22,6 +22,8 @@ var stickyfill = Stickyfill();
 stickyfill.add(el);
 ```
 
+For more detailed information, see the [original Readme.md file](https://github.com/wilddeer/stickyfill/blob/master/README.md) on the [wilddeer/stickyfill](https://github.com/wilddeer/stickyfill) repo.
+
 ## Acknowledgements
 
 Thanks to Oleg Korsunsky ([@wilddeer](https://github.com/wilddeer)), for the excelent polyfill implementation. @wilddeer, if you have any suggestions/comments on the way this is bundled, or want contributor access to this repo or to `npm`, just create an issue and we'll add you. ;)
